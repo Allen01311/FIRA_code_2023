@@ -1,8 +1,6 @@
-# FIRA_code_2023
-# International Intelligent RoboSports Cup 2023 - FIRA Air Autonomous Race_Pro and FIRA Air Emergency Service Indoor
 # 🤖 FIRA Robot Motion & Perception Modules
 
-# 本專案包含 FIRA（Federation of International Robot-soccer Association）2個比賽項目之無人機的感知與控制模組程式碼。
+本專案包含 FIRA（Federation of International Robot-soccer Association）2個比賽項目之無人機的感知與控制模組程式碼。
 
 # 核心模組：
 
